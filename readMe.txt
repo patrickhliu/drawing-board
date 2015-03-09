@@ -11,4 +11,4 @@ Languages: HTML / CSS / vanilla javascript
 3rd Party: JS Color ( http://jscolor.com/ )
 
 
-Github Page: http://pliu82.github.io/drawingBoard/
+Github Page: http://pliu82.github.io/drawing-board
