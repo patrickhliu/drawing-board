@@ -1,14 +1,30 @@
+****************
 Drawing Board
-Idea taken from William Malone's Blog: 
-http://www.williammalone.com/articles/create-html5-canvas-javascript-drawing-app/
+****************
+The idea for this project comes from: 
+	http://www.williammalone.com/articles/create-html5-canvas-javascript-drawing-app/
 
 Project Details:
-A simple MS Paint clone in the web browser.
-Most of the code for the actual drawing on canvas 
-is taken from William Malone's awesome tutorial above.
+	Create a MS paint clone where users can draw on a blank HTML5 canvas.
 
-Languages: HTML / CSS / vanilla javascript
-3rd Party: JS Color ( http://jscolor.com/ )
+Hosted Link:
+	http://pliu82.github.io/drawing-board
 
+Instructions:
+	Use the left mouse button to draw on the canvas.
+	Choose different colors using the color palette.
+	Adjust thickness of your lines using the drop down menu.
+	Click on the erase button to use an eraser tool.
+	Click on the clear button to erase everything on the canvas.
 
-Github Page: http://pliu82.github.io/drawing-board
+Languages: 
+	HTML / CSS / Vanilla Javascript
+
+3rd Party Tools: 
+	JS Color ( http://jscolor.com/ ) for the color palette.
+
+Helpful Resources (many thanks):
+	- The code drawing on canvas is taken from William Malone's awesome tutorial above.
+
+Needed Improvements:
+	- Have an eraser icon show up while erasing.
